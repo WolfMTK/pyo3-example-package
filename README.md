@@ -11,3 +11,9 @@ This repository contains an example of creating packages using pyo3 and integrat
 ### Install
 
 `pip install -e .`
+
+### More information
+
+[pyo3](https://pyo3.rs/v0.22.4/getting-started)
+
+[maturin](https://www.maturin.rs/installation)
